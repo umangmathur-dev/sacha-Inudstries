@@ -1,0 +1,14 @@
+/* img {
+    image-rendering: auto;
+    -webkit-backface-visibility: hidden;
+}
+
+.rev-slidebg {
+    filter: none !important;
+    transform: none !important;
+    image-rendering: crisp-edges;
+}
+
+.tp-shapewrapper {
+    background-color: rgba(2, 0, 11, 0.4) !important;
+} */
